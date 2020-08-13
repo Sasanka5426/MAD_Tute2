@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
 
         Log.i("Lifecycle","OnResume() called");
+
     }
 
     @Override
